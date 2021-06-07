@@ -34,4 +34,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/%20-Visual%20Studio-blueviolet)](https://visualstudio.microsoft.com/)
 
 ## Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamDunny&langs_count=8&layout=compact&show_icons=true&theme=onedark)](https://github.com/SamDunny/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamDunny)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamDunny&hide_border=true&langs_count=8&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/SamDunny/github-readme-stats)
