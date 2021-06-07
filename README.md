@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Overview
+## Projects
+* [Capstone Labyrinth](https://github.com/SCCapstone/Capstone-Labyrinth) - A maze-escape game built using a custom-designed C++ engine
+* [Data Structures with Java](https://github.com/SamDunny/Java_DataStructures) - A Java data structures library with examples
+
+## Languages
+[![](https://img.shields.io/badge/%20-C%2B%2B-brightgreen)](https://www.cplusplus.com) 
+[![](https://img.shields.io/badge/%20-Java%20-red)](https://www.java.com) 
+[![](https://img.shields.io/badge/%20-Python%20-yellow)](https://www.python.org/)
