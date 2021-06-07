@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/%20-Visual%20Studio-blueviolet)](https://visualstudio.microsoft.com/)
 
 ## Statistics
-[![Git CommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=SamDunny&hide_border=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamDunny&langs_count=8&layout=compact&show_icons=true&theme=onedark)](https://github.com/SamDunny/github-readme-stats)
