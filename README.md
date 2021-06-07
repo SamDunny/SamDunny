@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 * ### [Data Structures with Java](https://github.com/SamDunny/Java_DataStructures) - A Java data structures library with examples
 
 ## Languages
-[![](https://img.shields.io/badge/%20-C%2B%2B-brightgreen)](https://www.cplusplus.com) 
-[![](https://img.shields.io/badge/%20-Java%20-red)](https://www.java.com) 
-[![](https://img.shields.io/badge/%20-Python%20-yellow)](https://www.python.org/)
+[![](https://img.shields.io/badge/%20-C%2B%2B-brightgreen?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com) 
+[![](https://img.shields.io/badge/%20-Java%20-red?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com) 
+[![](https://img.shields.io/badge/%20-Python%20-yellow?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ## Technologies
 [![](https://img.shields.io/badge/%20-Eclipse-orange)](https://www.eclipse.org/ide/)
