@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 # Overview  
 * ### University of South Carolina Alumnus
 * ### Enjoys programming and Stack Overflow-ing
-* ### Interested in infosec, micro-architecture design, and networking
-* ### Currently learning about Python and Docker
 
 # Projects
 * ### [Capstone Labyrinth](https://github.com/SCCapstone/Capstone-Labyrinth) - A maze-escape game built using a custom-designed C++ engine
